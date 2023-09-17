@@ -1,0 +1,21 @@
+@import url(/assets/css/cabecalho/cabecalho.css);
+@import url(/assets/css/conteudo/conteudo.css);
+
+:root{
+    --cor-caramelo: #dbb374;
+    --cor-preto: black;
+    --cor-branco: white;
+    --cor-marrom: #2e190d;
+    --fonte-principal: 'Montserrat';
+    --cor-marrom-escuro: #11120e;
+}
+
+.webSite{
+    background: linear-gradient(#3d3d3dea, #c6c6c6, white);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 90vh;
+    font-family: var(--fonte-principal);
+    margin: 0;
+    padding: 0;
+}

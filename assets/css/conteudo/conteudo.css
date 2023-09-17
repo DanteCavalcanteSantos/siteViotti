@@ -1,0 +1,52 @@
+@import url(/assets/css/style.css);
+
+.quemSomos{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.quemSomos_title, .porqueTexto{
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+    font-size: 32px;
+}
+
+.texto_QuemSomos{
+    text-align: center;
+}
+
+.doutoraKaren{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+}
+
+.DraKaren_title, .DraReis_title{
+    font-size: 32px;
+    text-align: center;
+}
+
+.Porque{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+    padding: 10px;
+}
+
+.DraReis_text, .DraKaren_text{
+    text-align: center;
+    margin: 10px;
+}
+.integridade_img, .experiencia_img, .atendimento_img{
+    width: 10em;
+    margin: 20px
+}
+
+.integridade_p, .experiencia_p, .atendimento_p{
+    text-align: center;
+}
